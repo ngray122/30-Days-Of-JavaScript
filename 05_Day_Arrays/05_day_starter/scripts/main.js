@@ -38,6 +38,7 @@ console.log(itCompanies[3]);
 console.log(itCompanies[6]);
 
 //10. 
+//11.
 
 //12.
 itCompanies.toString();
@@ -52,7 +53,13 @@ itCompanies.reverse();
 itCompanies.slice(0, 3);
 
 //18.
-itCompanies.splice(3,7);
+itCompanies.slice(4, 7);
+
+//19.
+itCompanies.slice(3, 4);
+
+//20. 
+
 
 console.log(countries)
 alert('Open the browser console whenever you work on JavaScript')
