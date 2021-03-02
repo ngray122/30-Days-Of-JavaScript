@@ -38,7 +38,16 @@ console.log(itCompanies[3]);
 console.log(itCompanies[6]);
 
 //10. 
-//11.
+//11. 
+itCompanies[0] = "FACEBOOK";
+itCompanies[1] = "GOOGLE";
+itCompanies[2] = "MICROSOFT";
+itCompanies[3] = "APPLE";
+itCompanies[4] = "IBM";
+itCompanies[5] = "ORACLE";
+itCompanies[6] = "AMAZON";
+
+console.log(itCompanies);
 
 //12.
 itCompanies.toString();
@@ -59,6 +68,14 @@ itCompanies.slice(4, 7);
 itCompanies.slice(3, 4);
 
 //20. 
+itCompanies.shift();
+
+//21.
+
+//22.
+itCompanies.pop();
+
+//23.
 
 
 console.log(countries)
