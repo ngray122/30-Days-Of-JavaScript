@@ -1,4 +1,4 @@
-//Excercise 1
+//Ex 1
 
 //1.
 for (let i = 0; i <= 10; i++) {
@@ -65,3 +65,8 @@ for (let i = 0; i <= 100; i++){
   if (i % 2 !== 0)
   console.log(i)
 };
+
+
+//9.
+//10.
+for (let i = 0; i <= 100; )
