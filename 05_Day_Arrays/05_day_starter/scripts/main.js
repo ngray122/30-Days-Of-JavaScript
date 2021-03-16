@@ -68,12 +68,19 @@ itCompanies.slice(4, 7);
 itCompanies.slice(3, 4);
 
 //20. 
-itCompanies.shift();
+itCompanies.shift(3);
+
+let removeMiddle = itCompanies.length;
+
 
 //21.
 
 //22.
 itCompanies.pop();
+
+itCompanies.slice(-1);
+
+itCompanies.slice(6, 7);
 
 //23.
 
