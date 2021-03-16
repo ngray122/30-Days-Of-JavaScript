@@ -48,4 +48,8 @@ webTechs.indexOf("Sass");
 webTechs.push("Sass");
 `${webTechs[7]} is a CSS preprocess`;
 
+//6. 
+const frontEnd = ['HTML', 'CSS', 'JS', 'React', 'Redux']
+const backEnd = ['Node','Express', 'MongoDB']
 
+const fullStack = frontEnd + backEnd;
