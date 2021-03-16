@@ -52,4 +52,4 @@ webTechs.push("Sass");
 const frontEnd = ['HTML', 'CSS', 'JS', 'React', 'Redux']
 const backEnd = ['Node','Express', 'MongoDB']
 
-const fullStack = frontEnd + backEnd;
+const fullStack = frontEnd.concat(backEnd);
