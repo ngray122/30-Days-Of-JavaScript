@@ -38,3 +38,14 @@ shoppingCart.unshift("Meat");
 shoppingCart.push("Sugar");
 shoppingCart.slice(4, 5);
 shoppingCart[3] = "Green Tea";
+
+//4.
+countries.indexOf("Ethiopia");
+countries[4] = "ETHIOPIA";
+
+//5.
+webTechs.indexOf("Sass");
+webTechs.push("Sass");
+`${webTechs[7]} is a CSS preprocess`;
+
+
